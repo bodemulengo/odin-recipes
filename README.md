@@ -1,1 +1,2 @@
-# odin-recipes
+# odin-recipes 
+this is a learning process and the intention of this project is to show case how far I have come with HTML. I will be setting up an home page with several link to different home recipes as a website. The goal of this exercise is not a pretty website (unless one is into brutalist websites) but one of functionality.
